@@ -64,7 +64,7 @@ button:hover{
 }
 
 button:active{
-    opacity: 0.5;
+    opacity: .5;
 }
 a{
     font-size: 24px;
