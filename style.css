@@ -77,11 +77,11 @@ a:nth-child(2){
     color: #9499EA;
 }
 a:hover{
-    opacity: 0.8;
+    opacity: .8;
 }
 
 a:active{
-    opacity: 0.5;
+    opacity: .5;
 }
 
 header{
